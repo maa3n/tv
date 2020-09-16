@@ -1,0 +1,21 @@
+     *{
+    box-sizing: border-box;
+}
+body {
+  background: linear-gradient(50deg, #f8f7f7 50%, #bdce5e 50.1%);
+}
+
+     .tabcontent {
+            display: none;
+           
+        }
+
+        .tabcontent .active {
+            display: block;
+            display: show;
+            
+        }
+    #my-video,#my-video1,#my-video2,#my-video3,#my-video4,#my-video5,#my-video6,#my-video7,#my-video8,#my-video9 {
+  box-shadow: -4px 30px 40px 0 #000000;
+  margin-top: 30px;
+   }
